@@ -17,8 +17,8 @@ doc/bluecoin-release-notes/release-notes-0.13.3.md
 doc/bluecoin-release-notes/release-notes-0.14.2.md
 doc/bluecoin-release-notes/release-notes-0.15.0.1.md
 src/qt/res/icons/bluecoin_splash.png
-doc/litecoin-release-notes/
-src/qt/res/icons/litecoin_splash.png
+doc/bluecoin-release-notes/
+src/qt/res/icons/bluecoin_splash.png
 
 # autoreconf
 Makefile.in
