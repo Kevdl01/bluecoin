@@ -4,7 +4,7 @@ This issue tracker is only for technical issues related to bluecoin-core.
 
 General bluecoin questions and/or support requests and are best directed to the [bluecointalk.io forums](https://bluecointalk.io/).
 
-For reporting security issues, please contact the Litecoin developers on the #bluecoin-dev Freenode IRC channel or alternatively you can email us at contact@bluecoin.org.
+For reporting security issues, please contact the Bluecoin developers on the #bluecoin-dev Freenode IRC channel or alternatively you can email us at contact@bluecoin.org.
 
 ### Describe the issue
 

@@ -130,7 +130,7 @@
         <translation>Промени &amp;лозинку...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
+        <source>Send coins to a Bluecoin address</source>
         <translation>Пошаљите новац на bluecoin адресу</translation>
     </message>
     <message>

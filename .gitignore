@@ -87,7 +87,7 @@ src/qt/test/moc*.cpp
 *.qm
 Makefile
 bluecoin-qt
-Litecoin-Qt.app
+Bluecoin-Qt.app
 
 # Unit-tests
 Makefile.test
